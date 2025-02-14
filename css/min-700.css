@@ -1,0 +1,11 @@
+@media (min-width: 700px) {
+    
+
+    .all-content .nav-link nav{
+        display: flex;
+        flex-direction: row;
+       gap: 30px;
+        }
+
+
+}
